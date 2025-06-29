@@ -1,4 +1,4 @@
-Flask==2.2.3
-pandas==1.5.3
-werkzeug==2.2.3
-numpy==1.23.5
+Flask==2.3.3
+pandas==2.2.2
+numpy==1.26.4
+werkzeug==2.3.8
